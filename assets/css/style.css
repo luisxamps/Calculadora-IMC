@@ -73,3 +73,11 @@ form button:hover {
     grid-template-columns:repeat(2,1fr);
     line-height:0.5;
 }
+@media screen and (max-width: 900px){
+    .grid p{
+        font-size: 15px;
+    }
+    .container{
+        max-width:90%;
+    }
+}
