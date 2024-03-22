@@ -81,3 +81,11 @@ form button:hover {
         max-width:90%;
     }
 }
+@media screen and (max-width: 360px){
+    .grid p{
+        font-size: 10.5px;
+    }
+    .container{
+        max-width:90%;
+    }
+}
